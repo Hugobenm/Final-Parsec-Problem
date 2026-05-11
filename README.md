@@ -1,2 +1,5 @@
-# Final-Parsec-Problem
-Numerical simulations of the Final Parsec Problem. The purpose of this notebook is to show how when the Dark Matter Spike of the Super Massive Black Hole, can make it lose orbital energy and therefore make the binary closer, by being ejected. But also how the system stalls when the spike completely evaporates. 
+# Final Parsec Problem and SIDM Internship Project
+
+This repository contains the technical report, simulation scripts, and plotting routines developed during my external internship at the Instituto de Astrofísica de Canarias.
+
+The project studies the Final Parsec Problem and the role of Self-Interacting Dark Matter as a possible mechanism for sustaining dynamical friction in supermassive black-hole binary mergers.
