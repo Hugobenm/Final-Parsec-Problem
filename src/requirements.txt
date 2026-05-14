@@ -1,0 +1,7 @@
+rebound
+numpy
+matplotlib
+scipy
+tqdm
+imageio
+pyav
